@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KanBan-Board/static/css/main.96e98bdd.css",
+    "main.js": "/KanBan-Board/static/js/main.772b953e.js",
+    "index.html": "/KanBan-Board/index.html",
+    "main.96e98bdd.css.map": "/KanBan-Board/static/css/main.96e98bdd.css.map",
+    "main.772b953e.js.map": "/KanBan-Board/static/js/main.772b953e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e98bdd.css",
+    "static/js/main.772b953e.js"
+  ]
+}
